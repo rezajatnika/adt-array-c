@@ -63,4 +63,5 @@ ArrayInt ArrayAddition(ArrayInt T1, ArrayInt T2);
 
 // IsEq returns true if T1 == T2 both Neff and its element value
 boolean IsEq(ArrayInt T1, ArrayInt T2);
+
 #endif
